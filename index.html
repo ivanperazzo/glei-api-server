@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <title>Ejemplo API Rest + node</title>
+
+    <script src="main.js"></script>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+
+<body>
+    <header>
+        <h1>Tienda de productos V1.0</h1>
+    </header>
+
+    <main>
+        <h2>Usuarios</h2>
+        <section id="ProductosContenedor" class="productos">
+        </section>
+    </main>
+
+    <footer></footer>
+    <div class="plantilla">
+        <article class="producto">
+            <img src="" alt="">
+            <p>Nombre: <span class="nombre"></span></p>
+            <p>Edad: <span class="edad"></span></p>
+            <p>id: <span class="id"></span></p>
+        </article>
+    </div>
+    <div class="categories">
+        <h2>Categories</h2>
+        <ul>
+            <li><a class="getProductsByCat" value="Literatura"><span>Literatura</span></a></li>
+            <li><a class="getProductsByCat" value="Romance"><span>Romance</span></a></li>
+            <li><a class="getProductsByCat" value="Juguetes"><span>Juguetes</span></a></li>
+        </ul>
+    </div>
+    <br />
+    <br />
+    <hr />
+    <hr />
+    <div class="products"></div>
+</body>
+
+</html>

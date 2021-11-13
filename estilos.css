@@ -1,0 +1,66 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: gray;
+    color: white;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background-color: chartreuse;
+    min-height: 25vh;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    flex: 1;
+    background-color: tomato;
+    padding: 25px;
+}
+
+main .productos {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.plantilla .producto {
+    display: none;
+}
+
+main .productos .producto {
+    background-color: rgba(0,0,0,.5);
+    
+    padding: 15px;
+    margin:15px;
+    
+    border-radius: 5px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+
+    text-align: left;
+}
+
+main .productos .producto img {
+    height: 100px;
+    width: 100%;
+    background-color: rgba(0,0,0,.5);
+}
+
+footer {
+    background-color: teal;
+    min-height: 10vh;
+}
