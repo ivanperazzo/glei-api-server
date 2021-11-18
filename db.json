@@ -29,37 +29,9 @@
         "sinopsis": "¿Y si tuvieras que atravesar un país para descubrir el verdadero amor...? Bailey \"Mink\" Rydell cree haber conocido al chico de sus sueños. Los dos comparten su amor por el cine, pero su vínculo es solo online. Básicamente, Alex es el chico perfecto, aunque ninguno de los dos reveló aún su verdadera identidad. Ahora que Bailey se muda con su padre, tendrá la oportunidad de conocer a Alex. Es el momento de descifrar quién es él realmente, así que Bailey usará todas sus habilidades detectivescas para descubrirlo antes de atreverse a una cita… pero en el camino conocerá a Porter Roth, un joven carismático y guapísimo. ¿Bailey llegará a conocer a Alex u optará por un joven real, que la seduce y la desafía todo el tiempo?"
       },
       {
-        "isbn": "978-987-3952-03-6",
-        "titulo": "Crimen y Castigo",
-        "categoria": "Crimen y Misterio",
-        "autor": "Fiódor M. Dostoievski",
-        "editorial": "Penguin Random House Grupo Editorial S.A.",
-        "fecha_publicacion": "1/11/2015",
-        "encuadernacion": "Libro de Bolsillo",
-        "idioma": "8300",
-        "paginas": 752,
-        "precio": 480,
-        "portada": "libro4.jpg",
-        "sinopsis": "\"La mentira es el único privilegio del hombre sobre todos los demás animales.\" Considerada por la crítica como la primera obra maestra de Dostoievski, Crimen y castigo es un profundo análisis psicológico de su protagonista, el joven estudiante Raskólnikov, cuya firme creencia en que los fines humanitarios justifican la maldad lo conduce al asesinato de una usurera. Pero, desde que comete el crimen, la culpa será una pesadilla constante con la que el estudiante será incapaz de convivir. La presente edición de una de las obras más importantes de la literatura universal cuenta con la célebre traducción de Rafael Cansinos Assens, revisada y actualizada para la ocasión, y una introducción de David McDuff, traductor y crítico literario especialista en la obra del autor."
-      },
-      {
-        "isbn": "978-950-07-4693-9",
-        "titulo": "Bahía de los misterios",
-        "categoria": "Crimen y Misterio",
-        "autor": "Roberto Ampuero",
-        "editorial": "Penguin Random House Grupo Editorial S.A.",
-        "fecha_publicacion": "1/3/2014",
-        "encuadernacion": "Tapa blanda",
-        "idioma": "8300",
-        "paginas": 344,
-        "precio": 344,
-        "portada": "libro6.jpg",
-        "sinopsis": "Las grandes batallas periodísticas desde la Revolución de Mayo hasta la actualidadJoe Pembroke, profesor del Voltaire College de Chicago y especialista en cultura precolombina, ha sido asesinado en el puerto de Valparaíso de una manera escalofriante: su cabeza fue encontrada en la concurrida calle Esmeralda mientras que su cuerpo fue lanzado a un acantilado con una guadaña grabada a fuego en el pecho. En relación con el homicidio se abre una serie de posibilidades que abarca desde una venganza por drogas hasta un asunto más secreto, demasiado peligroso de investigar. Cayetano Brulé, el detective cubano asentado en Chile, acepta el caso pese a sus múltiples dificultades, y se embarca en una nueva aventura que lo llevará alrededor del mundo en la búsqueda de pistas que se remontan a siglos atrás e involucran los cimientos de la civilización actual. Bahía de los misterios nos conducirá por nuevos e insospechados caminos en la narrativa policial. Una novela trepidante y exquisita que atrapa al lector."
-      },
-      {
         "isbn": "978-987-800-042-8",
         "titulo": "Forastera (Saga Outlander 1)",
-        "categoria": "Ciencia Ficción",
+        "categoria": "Fantasia",
         "autor": "Diana Gabaldon",
         "editorial": "Penguin Random House Grupo Editorial S.A.",
         "fecha_publicacion": "1/8/2018",
@@ -73,7 +45,7 @@
       {
         "isbn": "978-987-725-423-5",
         "titulo": "El Instituto",
-        "categoria": "Terror",
+        "categoria": "Horror",
         "autor": "Stephen King",
         "editorial": "Penguin Random House Grupo Editorial S.A.",
         "fecha_publicacion": "1/5/2021",
@@ -87,7 +59,7 @@
       {
         "isbn": "978-987-718-481-5",
         "titulo": "Frankenstein",
-        "categoria": "Terror",
+        "categoria": "Horror",
         "autor": "Stephen King",
         "editorial": "Ediciones Lea",
         "fecha_publicacion": "1/2/2017",
@@ -96,7 +68,7 @@
         "paginas": 224,
         "precio": 224,
         "portada": "libro10.jpg",
-        "sinopsis": "Pasaron doscientos años desde que Mary Shelley escribió \"Frankenstein\" y todavía hoy es considerado no sólo un clásico de la literatura, sino una de las historias más reconocidas de la cultura popular y un ícono del terror a lo largo del mundo. ¿Cómo permanecer indiferente ante la osadía de un científico que decide devolverle la vida a un cadáver? Ese conflicto –el del hombre jugando a ser Dios- atraviesa nuestra cultura de la mano de la genial creación de Shelley, nos habla de nuestros miedos, nos enfrenta con nuestro deseo de inmortalidad. Por estos motivos, y por su indiscutible calidad literaria, Frankenstein y el monstruo que engendra logran aterrorizarnos, encuentran nuevos lectores, se mantienen con vida –vaya paradoja- a pesar del tiempo."
+        "sinopsis": "Pasaron doscientos años desde que Mary Shelley escribió \"Frankenstein\" y todavía hoy es considerado no sólo un clásico de la literatura, sino una de las historias más reconocidas de la cultura popular y un ícono del Horror a lo largo del mundo. ¿Cómo permanecer indiferente ante la osadía de un científico que decide devolverle la vida a un cadáver? Ese conflicto –el del hombre jugando a ser Dios- atraviesa nuestra cultura de la mano de la genial creación de Shelley, nos habla de nuestros miedos, nos enfrenta con nuestro deseo de inmortalidad. Por estos motivos, y por su indiscutible calidad literaria, Frankenstein y el monstruo que engendra logran aHorrorizarnos, encuentran nuevos lectores, se mantienen con vida –vaya paradoja- a pesar del tiempo."
       }
     ]
   }
