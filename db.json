@@ -27,6 +27,20 @@
         "precio": 480,
         "portada": "libro3.jpg",
         "sinopsis": "¿Y si tuvieras que atravesar un país para descubrir el verdadero amor...? Bailey \"Mink\" Rydell cree haber conocido al chico de sus sueños. Los dos comparten su amor por el cine, pero su vínculo es solo online. Básicamente, Alex es el chico perfecto, aunque ninguno de los dos reveló aún su verdadera identidad. Ahora que Bailey se muda con su padre, tendrá la oportunidad de conocer a Alex. Es el momento de descifrar quién es él realmente, así que Bailey usará todas sus habilidades detectivescas para descubrirlo antes de atreverse a una cita… pero en el camino conocerá a Porter Roth, un joven carismático y guapísimo. ¿Bailey llegará a conocer a Alex u optará por un joven real, que la seduce y la desafía todo el tiempo?"
+      },      
+      {
+        "isbn": "978-950-15-0663-1",
+        "titulo": "Julieta",
+        "categoria": "Romance",
+        "autor": "Franco, Anabella  ",
+        "editorial": "Penguin Random House Grupo Editorial S.A.",
+        "fecha_publicacion": "1/5/2018",
+        "encuadernacion": "Tapa blanda",
+        "idioma": "8300",
+        "paginas": 384,
+        "precio": 1849,
+        "portada": "libro2.jpg",
+        "sinopsis": "Julieta es una mujer de hielo. Una abogada inteligente, fría e implacable. Nada puede doblegarla, ni siquiera la culpa y el silencio que restan cuando se cierra el telón del éxito. Sucede que, ante los sentimientos, no es más que una niña inexperta y asustada tratando de sobrevivir en un mundo despiadado. Leonardo, un barman, cree haber sido víctima de esa mujer que no lo recuerda. Una casualidad los pone frente a frente y él quisiera ser capaz de dañarla. No sabe que su odio por ella es tan fuerte como será su amor cuando el hielo se derrita y descubra a la mujer que anhela ser amada. Una intensa pasión se desata mientras la verdad y el peligro acechan en las sombras. El deseo late al ritmo de dos corazones que ansían la redención y el alivio. ¿Qué pasará cuando todos los sentimientos se confundan?"
       },
       {
         "isbn": "978-987-800-042-8",
@@ -40,8 +54,38 @@
         "paginas": 768,
         "precio": 768,
         "portada": "libro8.jpg",
-        "sinopsis": "Recién acabada la Segunda Guerra Mundial, una joven pareja se reúne por fin para pasar sus vacaciones en Escocia. Una tarde, cuando pasea sola por la pradera, Claire se acerca a un círculo de piedras antiquísimas y cae de pronto en un extraño trance. Al volver en sí se encuentra con un panorama desconcertante: el mundo moderno ha desaparecido, ahora la rodea la Escocia de 1734, con sus clanes beligerantes y supersticiosos, hombres y mujeres rudos, a veces violentos, pero con una capacidad de vivir y de amar como Claire jamás había experimentado en su anterior vida. Acosada por los recuerdos, Claire tendrá que elegir entre la seguridad del futuro que dejó atrás y la apasionante incertidumbre del pasado que ahora habita. En esta primera parte de la saga de Claire Randall -que continúa con Atrapada en el tiempo, Viajera y Tambores de otoño-, Diana Gabaldon ha escrito una historia de amor diferente, en la que los encuentros fortuitos y el juego equívoco del tiempo se conjugan en un intrigante final."
+        "sinopsis": "Recién acabada la Segunda Guerra Mundial, una joven pareja se reúne por fin para pasar sus vacaciones en Escocia. Una tarde, cuando pasea sola por la pradera, Claire se acerca a un círculo de piedras antiquísimas y cae de pronto en un extraño trance. Al volver en sí se encuentra con un panorama desconcertante: el mundo moderno ha desaparecido, ahora la rodea la Escocia de 1734, con sus clanes beligerantes y supersticiosos, hombres y mujeres rudos, a veces violentos, pero con una capacidad de vivir y de amar como Claire jamás había experimentado en su anterior vida. Acosada por los recuerdos, Claire tendrá que elegir entre la seguridad del futuro que dejó atrás y la apasionante incertidumbre del pasado que ahora habita."
       },
+      {
+        "isbn": "978-987-800-070-1",
+        "titulo": "El cerdito de navidad",
+        "categoria": "Fantasia",
+        "autor": "J. K. Rowling  ",
+        "editorial": "Penguin Random House Grupo Editorial S.A.",
+        "fecha_publicacion": "1/10/2021",
+        "encuadernacion": "Tapa blanda",
+        "idioma": "8300",
+        "paginas": 768,
+        "precio": 768,
+        "portada": "libro11.jpg",
+        "sinopsis": "Un niño y su juguete están a punto de cambiarlo todo... La nueva novela juvenil de J.K. Rowling , autora de la saga «Harry Potter»."
+      },
+
+      {
+        "isbn": "978-987-47992-5-8",
+        "titulo": "Una bruja en el tiempo",
+        "categoria": "Fantasia",
+        "autor": "Constance Sayers",
+        "editorial": "Riverside",
+        "fecha_publicacion": "1/10/2021",
+        "encuadernacion": "Con Solapa",
+        "idioma": "8300",
+        "paginas": 416,
+        "precio": 768,
+        "portada": "libro11.jpg",
+        "sinopsis": "Helen acepta una cita a ciegas después de mucho tiempo, pero no está muy segura de que sea una buena idea. Luke le está diciendo que la conoce desde hace años, siglos incluso. Pero eso es imposible, su vida es la misma que la de cualquier otra mujer. Lo acompaña con desconfianza a visitar el museo y para su sorpresa se reconoce a sí misma en una pintura de una joven en la Belle Époque de Francia. Debe ser una casualidad, no puede ser ella. Sin embargo, desde esa noche comienza a tener sueños muy vívidos sobre un amor trágico y vidas que se acaban antes de tiempo. ¿Está atrapada en una maldición? ¿Encontrará la manera de romper el ciclo? ¿O es ya demasiado tarde?"
+      },
+
       {
         "isbn": "978-987-725-423-5",
         "titulo": "El Instituto",
@@ -53,22 +97,37 @@
         "idioma": "8300",
         "paginas": 624,
         "precio": 624,
-        "portada": "libro9.jpg",
-        "sinopsis": "En mitad de la noche en un barrio tranquilo de Minneapolis raptan a Luke Ellis, de doce años, tras haber asesinado a sus padres. Una operación que dura menos de dos minutos. Luke se despierta en la siniestra institución conocida como el Instituto, en un cuarto que se asemeja al suyo pero sin ventanas. En habitaciones parecidas hay más niños: Kalisha, Nick, George, Iris y Avery Dixon, entre otros, que comparten capacidades especiales como la telequinesia o la telepatía. Todos ellos se alojan en la Mitad Delantera de la institución. Los mayores, en cambio, se encuentran en la Mitad Trasera. Como dice Kalisha: \"El que entra no sale\". La señora Sigsby, la directora, y el resto del personal se dedican a aprovecharse sin compasión del talento paranormal de los chicos. Si te portas bien, te premian. Si no, el castigo es brutal. Luke se da cuenta de que las víctimas van desapareciendo y son trasladadas a la Mitad Trasera, así que se obsesiona con huir y pedir ayuda. Pero nunca nadie ha escapado del Instituto... Deudora de Ojos de fuego y con personajes juveniles (como en It y en Stand By Me) con los que podemos empatizar, El Instituto nos recuerda de in - mediato al mejor King, incluso aunque trate temas tan oscuros como los que copan los titulares hoy en día y que nos hacen temer por nuestro futuro."
+        "portada": "libro12.jpg",
+        "sinopsis": "En mitad de la noche en un barrio tranquilo de Minneapolis raptan a Luke Ellis, de doce años, tras haber asesinado a sus padres. Una operación que dura menos de dos minutos. Luke se despierta en la siniestra institución conocida como el Instituto, en un cuarto que se asemeja al suyo pero sin ventanas. En habitaciones parecidas hay más niños: Kalisha, Nick, George, Iris y Avery Dixon, entre otros, que comparten capacidades especiales como la telequinesia o la telepatía. Todos ellos se alojan en la Mitad Delantera de la institución. Los mayores, en cambio, se encuentran en la Mitad Trasera. Como dice Kalisha: \"El que entra no sale\". La señora Sigsby, la directora, y el resto del personal se dedican a aprovecharse sin compasión del talento paranormal de los chicos. Si te portas bien, te premian. Si no, el castigo es brutal."
       },
       {
-        "isbn": "978-987-718-481-5",
-        "titulo": "Frankenstein",
+        "isbn": "978-987-718-114-2",
+        "titulo": "Historias de horror",
         "categoria": "Horror",
-        "autor": "Stephen King",
+        "autor": "Howard Phillip Lovecraft ",
         "editorial": "Ediciones Lea",
-        "fecha_publicacion": "1/2/2017",
+        "fecha_publicacion": "1/5/2017",
         "encuadernacion": "Tapa blanda",
         "idioma": "8300",
-        "paginas": 224,
+        "paginas": 192,
         "precio": 224,
-        "portada": "libro10.jpg",
-        "sinopsis": "Pasaron doscientos años desde que Mary Shelley escribió \"Frankenstein\" y todavía hoy es considerado no sólo un clásico de la literatura, sino una de las historias más reconocidas de la cultura popular y un ícono del Horror a lo largo del mundo. ¿Cómo permanecer indiferente ante la osadía de un científico que decide devolverle la vida a un cadáver? Ese conflicto –el del hombre jugando a ser Dios- atraviesa nuestra cultura de la mano de la genial creación de Shelley, nos habla de nuestros miedos, nos enfrenta con nuestro deseo de inmortalidad. Por estos motivos, y por su indiscutible calidad literaria, Frankenstein y el monstruo que engendra logran aHorrorizarnos, encuentran nuevos lectores, se mantienen con vida –vaya paradoja- a pesar del tiempo."
+        "portada": "libro13.jpg",
+        "sinopsis": "Lovecraft propone una imagen del mundo nueva para terrores novedosos. Crea una nueva mitología habitada por seres vivos, muertos o aletargados, venidos de estrellas que aún no conocemos, provenientes de ignotas dimensiones situadas más allá del tiempo y el espacio, que esperan para desalojar definitivamente a la humanidad de su sitial predominante. Estudioso de la mística, la teosofía, el ocultismo y otras disciplinas, edifica un museo del horror que espantó a sus contemporáneos y todavía hoy provoca terror en los nuevos lectores."
+      },
+      {
+        "isbn": "978-987-725-159-3",
+        "titulo": "Doctor Sueño",
+        "categoria": "Horror",
+        "autor": "King, Stephen",
+        "editorial": "Penguin Random House Grupo Editorial S.A.",
+        "fecha_publicacion": "1/4/2016",
+        "encuadernacion": "Tapa blanda",
+        "idioma": "8300",
+        "paginas": 608,
+        "precio": 224,
+        "portada": "libro14.jpg",
+        "sinopsis": "Danny Torrance, aquel niño aterrorizado del Hotel Overlook, se ha convertido en un adulto alcohólico y sin residencia fija que vive atormentado por sus visiones y por los fantasmas de su infancia, a los que ha aprendido a controlar pero no a eliminar de su mente. Un día se siente atraído hacia una ciudad de New Hampshire, de donde le llega la visión de Abra Stone, una niña que necesita su ayuda. La persigue una tribu de seres paranormales que vive del resplandor de los niños especiales, y precisamente el de Abra tiene mucha fuerza... Danny sabe que sin su ayuda nunca conseguirá escapar. Juntos emprenden una lucha épica, una batalla sangrienta entre el Bien y el Mal. Una novela que entusiasmará a los millones de lectoresde El resplandor y encantará a todos los que conozcana Danny Torrance por primera vez."
       }
+
     ]
   }
